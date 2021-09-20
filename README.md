@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaoshanzhaguo
 - 👀 I’m interested in frond end
-- 🌱 I’m currently learning HTML、CSS、Vue
+- 🌱 I’m currently learning HTML、CSS、Vue、JavaSE
 - 📫 How to reach me xiaoshanzhaguo@163.com
 
 <!---
